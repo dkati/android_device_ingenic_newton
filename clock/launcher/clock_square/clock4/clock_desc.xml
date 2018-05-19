@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clock>
+     <clock_id>004</clock_id>
+     <type>analog</type>
+     <style>sporty</style>
+     <clock_name>虹桥,虹橋,Rainbow,26,#e6e6e6</clock_name>
+     <preclock>4,30,0</preclock>
+     <background>clock_01.png</background>
+     <second_progress>link_stroke,#FF0000,#FF0000</second_progress>
+     <hour_point>hour.png</hour_point>
+     <minute_point>minute.png</minute_point>
+</clock>

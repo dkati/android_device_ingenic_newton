@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clock>
+     <clock_id>005</clock_id>
+     <type>analog</type>
+     <style>sporty</style>
+     <clock_name>清新,清新,Fresh,26,#e6e6e6</clock_name>
+     <preclock>3,30,30</preclock>
+     <background>clock_01.png</background>
+     <second_progress>space_big,#5aff00,#5aff00</second_progress>
+     <hourLocation>130,55,80,#ffffff,hour_time.ttf,true,hour_bg.png</hourLocation>
+     <minuteLocation>130,170,80,#5aff00,minute_time.ttf,true,minute_bg.png</minuteLocation>
+</clock>

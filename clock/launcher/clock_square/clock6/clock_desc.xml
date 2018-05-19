@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clock>
+     <clock_id>006</clock_id>
+     <type>analog</type>
+     <style>classic</style>
+     <clock_name>月相,月相,Moon,26,#e6e6e6</clock_name>
+     <preclock>10,30,0</preclock>
+     <background>clock_01.png</background>
+     <hourLocation>150,5,43,#ffffff,hour_time.ttf,true,hour_bg.png</hourLocation>
+     <timeSeLocation>220,0,45,#ffffff,time.ttf</timeSeLocation>
+     <minuteLocation>240,5,43,#ffffff,minute_time.ttf,true,minute_bg.png</minuteLocation>
+     <moon_name>10,15,20,#FF393937,week_time.ttf,true</moon_name>
+     <moon_view_bg>30,30,moon0.png,moon1.png,moon2.png,moon3.png,moon4.png,moon5.png,moon6.png,true</moon_view_bg>
+     <sunrise_note>50,270,20,#FF393937,sunrise_note.ttf,true</sunrise_note>
+     <sunrise_bg>30,280,sunrise_bg.png,true</sunrise_bg>
+     <sunset_note>200,270,20,#FF393937,sunset_note.ttf,true</sunset_note>
+     <sunset_bg>180,280,sunset_bg.png,true</sunset_bg>
+</clock>

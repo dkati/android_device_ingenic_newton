@@ -1,0 +1,20 @@
+LOCAL_PATH := $(call my-dir)
+
+include $(CLEAR_VARS)
+
+LOCAL_SRC_FILES := sh_s
+LOCAL_MODULE := sh_s
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_PATH:= $(TARGET_ROOT_OUT_SBIN)
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_SRC_FILES := toolbox_s
+LOCAL_MODULE := toolbox_s
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_PATH:= $(TARGET_ROOT_OUT_SBIN)
+include $(BUILD_PREBUILT)
+
+include $(call all-makefiles-under,$(LOCAL_PATH))

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clock>
+     <clock_id>001</clock_id>
+     <type>analog</type>
+     <style>sporty</style>
+     <clock_name>时尚,時尚,Fashion,26,#e6e6e6</clock_name>
+     <preclock>3,30,0</preclock>
+     <background>clock_01.png</background>
+     <second_point>second.png</second_point>
+     <hourLocation>110,100,60,#FFF41b1e,hour_time.ttf,true,hour_bg.png</hourLocation>
+     <minuteLocation>220,140,28,#FF8bf21c,minute_time.ttf,true,minute_bg.png</minuteLocation>
+     <daynotelocation>20,153,12,#FF8bf21c,day_time.ttf,day_bg.png,true,MM_DD</daynotelocation>
+     <weeknotelocation>71,154,12,#FF8bf21c,week_time.ttf,true</weeknotelocation>
+</clock>

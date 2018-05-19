@@ -1,0 +1,37 @@
+# JZ graphics
+/dev/x2d                  0666   root       graphics
+/dev/ipu                  0660   media      media
+/dev/dmmu                 0666   root       graphics
+
+# IWDS
+/dev/input/*              0666   root       input
+# JZ G-sensor
+/dev/g_sensor             0666   root       root
+/dev/orientation_sensor   0666   root       root
+
+# for heartrate_pixart
+/dev/pixart_ofn           0666    root    root
+
+# for Frizz sensor hab
+/dev/frizz           0666    root    root
+
+#ingenic camea device 
+/dev/video0    0666    root    root
+
+# for ingenic vpu or tcsm
+/dev/tcsm                 0666    media    media
+/dev/jz-vpu               0660    media    media
+/dev/jzdmic_driver		0666	root	root
+/dev/jz-wakeup			0666	root	root
+/dev/jz-dmic			0666	root	root
+
+/dev/ttyS1				0660	system	system
+/dev/ttyS0				0600	system	system
+
+/dev/graphics/fb0         0666   root       graphics
+/dev/graphics/galcore         0666   root       graphics
+
+# for haptic device
+/dev/drv2605       0666    root    root
+
+

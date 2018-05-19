@@ -1,1 +1,0 @@
-# android_device_ingenic_newton

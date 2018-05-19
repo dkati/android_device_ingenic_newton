@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clock>
+     <clock_id>001</clock_id>
+     <type>analog</type>
+     <style>sporty</style>
+     <clock_name>红艳,紅艷,Bright,26,#e6e6e6</clock_name>
+     <preclock>3,30,30</preclock>
+     <background>clock_01.png</background>
+     <second_point>second.png</second_point>
+     <hourLocation>68,115,75,#FFf41b1e,hour_time.ttf,true,hour_bg.png</hourLocation>
+     <minuteLocation>203,115,75,#FFffffff,minute_time.ttf,true,minute_bg.png</minuteLocation>
+     <daynotelocation>255,268,19,#FF8bf21c,day_time.ttf,day_bg.png,true,DD_MM</daynotelocation>
+</clock>

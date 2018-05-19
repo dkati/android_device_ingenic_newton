@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clock>
+     <clock_id>002</clock_id>
+     <type>analog</type>
+     <style>sporty</style>
+     <clock_name>高雅,高雅,Elegant,26,#e6e6e6</clock_name>
+     <preclock>9,30,30</preclock>
+     <background>clock_01.png</background>
+     <second_point>second.png</second_point>
+     <hour_point>hour.png</hour_point>
+     <minute_point>minute.png</minute_point>
+</clock>
