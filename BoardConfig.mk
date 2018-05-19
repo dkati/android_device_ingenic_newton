@@ -108,3 +108,8 @@ USE_MINIKIN := true
 EXTENDED_FONT_FOOTPRINT := false
 
 #VOICE_TRIGER_SUPPORT := true
+
+#TWRP
+ifeq ($(WITH_TWRP),true)
+-include device/ingenic/newton/twrp.mk
+endif
